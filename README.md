@@ -5,7 +5,7 @@ Edited templates:
 
 
 
-Templates created from scratch
+Templates created from scratch:
   - Template Cambium PTP 670
 
 
