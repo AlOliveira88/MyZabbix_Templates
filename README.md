@@ -1,7 +1,7 @@
 # MyZabbix_Templates
 
 Edited templates:
-  - APC UPS SNMP -> More triggers and more items
+  - APC UPS SNMP -> Original template, added More triggers and more items
 
 
 
