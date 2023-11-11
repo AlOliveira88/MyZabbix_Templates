@@ -1,0 +1,1 @@
+# MyZabbix_Templates
